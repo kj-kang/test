@@ -12,7 +12,7 @@ authors:
   
   - TEST
     - SUB1
-    - SUB2
+  - SUB2
 published: false
 ---
 
