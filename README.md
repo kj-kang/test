@@ -8,6 +8,7 @@ image: /blog-images/headers/the-future-is-now.jpg
 imageAlt: The Future is Now
 authors:
   - TEST
+  
   - TEST
     - SUB1
     - SUB2
