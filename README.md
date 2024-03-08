@@ -1,5 +1,5 @@
 ---
-title: Future Proofing Your Remix App
+title: 
   - TEST
 summary: We've introduced the concept of future flags to give you a smooth upgrade path for your Remix app.
 featured: false
@@ -8,6 +8,8 @@ image: /blog-images/headers/the-future-is-now.jpg
 imageAlt: The Future is Now
 authors:
   - Matt Brophy
+  - TEST
+  - TEST
 ---
 
 At Remix, we know first-hand just how painful it can be to go through a major version upgrade. Especially for something as foundational to your application as the framework or router it's built on. We want to do our very best to provide you a best-in-class upgrade experience -- let's talk about **"Future Flags"**.
